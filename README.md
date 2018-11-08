@@ -1,1 +1,1 @@
-# HackerRankWithJS
+# HackerRankSolution
